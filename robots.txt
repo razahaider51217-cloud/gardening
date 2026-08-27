@@ -1,0 +1,7 @@
+# Seed to Garden - robots.txt
+User-agent: *
+Allow: /
+
+# Replace the domain and uncomment the line below once the site is published
+# and you have uploaded a sitemap.xml.
+# Sitemap: https://www.yourdomain.com/sitemap.xml

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#e8f0e8"/>
+  <text x="400" y="50%" font-family="Georgia, serif" font-size="46" fill="#51705c" text-anchor="middle">Grow something great</text>
+  <circle cx="400" cy="56%" r="70" fill="none" stroke="#3c7250" stroke-width="6"/>
+  <path d="M400 485 v90 M400 500 l-28 -18 M400 500 l28 -18 M400 515 l-26 16 M400 515 l26 16" stroke="#3c7250" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>
